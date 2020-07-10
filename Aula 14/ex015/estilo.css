@@ -1,0 +1,28 @@
+    body {
+        background: rgba(136, 200, 252, 0.692);
+        font: normal 15pt Arial;
+    }
+    /*body cor do fundo*/
+    
+    header {
+        color: rgb(248, 248, 248);
+        text-align: center;
+    }
+    /* header cor do titulo*/
+    
+    section {
+        background: rgb(255, 255, 255);
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        height: 500px;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.603);
+    }
+    /* cor,fotnte, tamanho e tipo da seção quadrado*/
+    
+    footer {
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-style: italic;
+    }
+    /* cor e estilo direitos autorais*/
